@@ -44,8 +44,7 @@ Similarly, our teacher model and our student model can be evaluated using the `t
 ```
 python3 test_ppsnet.py --data_dir /your/path/to/data/dir --log_dir ./your_path_to_log_dir --ckpt ./your_path_to_checkpoint
 ```
-
-Please keep an eye on this repo for future updates, including a full release of the training code, baselines included in the paper, mesh generation and visualization code, and more.
+Both scripts will generate various folders in the specified `log_dir` containing input images, ground truth and estimate depths, and percent depth error maps. Please keep an eye on this repo for future updates, including a full release of the training code, baselines included in the paper, mesh generation and visualization code, and more.
 
 ## :scroll: Acknowledgments
 Thanks to the authors of [Depth Anything](https://github.com/LiheYoung/Depth-Anything) and [NFPS](https://github.com/dlichy/FastNFPSCode) for their wonderful repos with open-source code!
