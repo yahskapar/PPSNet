@@ -1,0 +1,7 @@
+huggingface_hub==0.20.1
+matplotlib==3.7.5
+numpy==1.24.3
+opencv_python==4.5.2.54
+Pillow==10.2.0
+scipy==1.10.1
+tqdm==4.64.0
