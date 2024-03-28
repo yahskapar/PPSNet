@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://arxiv.org/">Pre-print</a> | <a href="https://ppsnet.github.io/">Project Website</a>
+<a href="https://arxiv.org/abs/2403.17915">Pre-print</a> | <a href="https://ppsnet.github.io/">Project Website</a>
 </p>
 
 ## :book: Abstract
@@ -50,7 +50,7 @@ In addition to generating metrics such as `abs_rel` and `RMSE`, both scripts wil
 Thanks to the authors of [Depth Anything](https://github.com/LiheYoung/Depth-Anything) and [NFPS](https://github.com/dlichy/FastNFPSCode) for their wonderful repos with open-source code!
 
 ## :scroll: Citation
-If you find our [paper](https://arxiv.org/) or this toolbox useful for your research, please cite our work.
+If you find our [paper](https://arxiv.org/abs/2403.17915) or this toolbox useful for your research, please cite our work.
 
 ```
 Coming soon!
