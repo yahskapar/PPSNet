@@ -53,5 +53,10 @@ Thanks to the authors of [Depth Anything](https://github.com/LiheYoung/Depth-Any
 If you find our [paper](https://arxiv.org/abs/2403.17915) or this toolbox useful for your research, please cite our work.
 
 ```
-Coming soon!
+@article{paruchuri2024leveraging,
+  title={Leveraging Near-Field Lighting for Monocular Depth Estimation from Endoscopy Videos},
+  author={Paruchuri, Akshay and Ehrenstein, Samuel and Wang, Shuxian and Fried, Inbar and Pizer, Stephen M and Niethammer, Marc and Sengupta, Roni},
+  journal={arXiv preprint arXiv:2403.17915},
+  year={2024}
+}
 ```
